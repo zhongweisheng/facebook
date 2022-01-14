@@ -19,6 +19,6 @@
     >1.获取google转化列表
     >2.修改转化
     >3.上传转化
-*google adword配置
+* google adword配置
     >1.部分配置 使用adwords配置 统一修改
 

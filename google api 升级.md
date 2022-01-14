@@ -1,5 +1,6 @@
 #google adwords API 升级
 ##大致功能
+* oversea项目
 * google账号绑定
     >1.google账号绑定
     >2.google账号列表
@@ -20,5 +21,10 @@
     >2.修改转化
     >3.上传转化
 * google adword配置
-    >1.部分配置 使用adwords配置 统一修改
+    >部分配置 使用adwords配置 统一修改
+
+* xxljob-oversea 项目
+* 计划任务 下载 报告
+    >1. google gclid 报表下载 CLICK_PERFORMANCE_REPORT 
+    >2. google 广告统计 报表下载 GEO_PERFORMANCE_REPORT 
 
